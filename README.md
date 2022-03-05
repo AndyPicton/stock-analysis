@@ -32,8 +32,4 @@ After initiailizing an array of all tickers in the refactored code:
 ![image](https://user-images.githubusercontent.com/99369565/156902134-6b830175-b478-4910-981a-cdb565185a29.png)
 
 ## Summary
-
-In a summary statement, address the following questions.
-
-What are the advantages or disadvantages of refactoring code?
-How do these pros and cons apply to refactoring the original VBA script?
+There seems to be more advantages than disadvantages in this project in refactoring the original VBA code. The first advantage I saw is that it made my code run faster but it also took more time to write the code. I am willing to invest more time in at first if I know the product will be better, if I scale the code up to look at more stocks the time to run the code will go up as well, being able to cut the run time by 1 whole second is huge.
